@@ -2,6 +2,11 @@
   "name": "fcc-learn-npm-package-json",
   "author": "Abdulquddud Ibrahim",
   "description": "A simple npm package installer",
+  "keywords": [
+    "freecodecamp",
+    "npm",
+    "node"
+  ],
   "version": "1.0.0",
   "dependencies": {
     "express": "^4.14.0"
