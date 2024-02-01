@@ -1,7 +1,8 @@
 {
   "name": "fcc-learn-npm-package-json",
   "author": "Abdulquddud Ibrahim",
-
+  "description": "A simple npm package installer",
+  "version": "1.0.0",
   "dependencies": {
     "express": "^4.14.0"
   },
@@ -18,7 +19,6 @@
     "url": "https://github.com/freeCodeCamp/boilerplate-npm/issues"
   },
   "homepage": "https://github.com/freeCodeCamp/boilerplate-npm#readme",
-  "version": "1.0.0",
   "devDependencies": {},
   "license": "ISC"
 }
