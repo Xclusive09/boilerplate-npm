@@ -1,7 +1,7 @@
 {
   "name": "fcc-learn-npm-package-json",
   "author": "Abdulquddud Ibrahim",
-  "description": "A simple npm package installer",
+  "description": "[![Run on Repl.it](https://repl.it/badge/github/freeCodeCamp/boilerplate-npm)](https://repl.it/github/freeCodeCamp/boilerplate-npm)",
   "keywords": [
     "freecodecamp",
     "npm",
@@ -20,11 +20,9 @@
     "type": "git",
     "url": "git+https://github.com/freeCodeCamp/boilerplate-npm.git"
   },
-  "description": "[![Run on Repl.it](https://repl.it/badge/github/freeCodeCamp/boilerplate-npm)](https://repl.it/github/freeCodeCamp/boilerplate-npm)",
   "bugs": {
     "url": "https://github.com/freeCodeCamp/boilerplate-npm/issues"
   },
   "homepage": "https://github.com/freeCodeCamp/boilerplate-npm#readme",
-  "devDependencies": {},
   "license": "ISC"
 }
